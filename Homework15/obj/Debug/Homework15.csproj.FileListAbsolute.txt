@@ -1,0 +1,14 @@
+C:\Users\Cleveland Codes\Desktop\Homework15\obj\Debug\Homework15.csproj.CoreCompileInputs.cache
+C:\Users\Cleveland Codes\Desktop\Homework15\bin\Debug\Homework15.exe.config
+C:\Users\Cleveland Codes\Desktop\Homework15\bin\Debug\Homework15.exe
+C:\Users\Cleveland Codes\Desktop\Homework15\bin\Debug\Homework15.pdb
+C:\Users\Cleveland Codes\Desktop\Homework15\bin\Debug\EntityFramework.dll
+C:\Users\Cleveland Codes\Desktop\Homework15\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cleveland Codes\Desktop\Homework15\bin\Debug\EntityFramework.xml
+C:\Users\Cleveland Codes\Desktop\Homework15\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cleveland Codes\Desktop\Homework15\obj\Debug\Homework15.exe
+C:\Users\Cleveland Codes\Desktop\Homework15\obj\Debug\Homework15.pdb
+C:\Users\Cleveland Codes\Desktop\Homework15\obj\Debug\Homework15.csprojResolveAssemblyReference.cache
+C:\Users\Cleveland Codes\Desktop\Homework15\obj\Debug\Homework15.Migrations.InitialCreate.resources
+C:\Users\Cleveland Codes\Desktop\Homework15\obj\Debug\Homework15.csproj.GenerateResource.Cache
+C:\Users\Cleveland Codes\Desktop\Homework15\obj\Debug\Homework15.Migrations.Instructor.resources
